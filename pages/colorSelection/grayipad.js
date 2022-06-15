@@ -90,7 +90,7 @@ function grayipad () {
                             <div style={{ color: 'red' }}>
                                 New
                             </div>
-                            <h1 style={{ margin: '0em 0em 1em 0em' }}>
+                            <h1 style={{ margin: '0em 0em 1em 0em', fontSize: '40px' }}>
                                 Buy iPad Air
                             </h1>
                             <Divider />
