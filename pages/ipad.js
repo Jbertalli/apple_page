@@ -146,9 +146,9 @@ export default function ipad () {
                 <Front />
             </div> */}
 
-            <div style={{ transform: 'translate(90px, -400px)', position: 'fixed' }}>
+            <div style={{ transform: 'translate(90px, -400px)', position: 'fixed', background: 'black' }}>
                 <div style={{ transform: 'translate(0px, -600px) scale(.35)' }}>
-                    <div style={{ transform: 'translate(-150px, 170px) rotate(40deg)', position: 'relative', zIndex: 6 }}>
+                    <div className={styles.hidden} style={{ transform: 'translate(-155px, 182px) rotate(40deg)', position: 'relative', zIndex: 6 }}>
                         <Front />
                     </div>
                     <div style={{ transform: 'translate(0px, -120px) rotate(280deg)', position: 'relative', zIndex: 5 }}>

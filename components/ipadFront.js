@@ -4,7 +4,7 @@ import { Icon } from 'semantic-ui-react';
 export default function Front () {
     return (
         <>
-            <div style={{ transform: 'translate(0px, 0px)', objectFit: 'scale-down' }}> {/* rotate3d(2, -1, -1, 0.75turn) */}
+            <div style={{ transform: 'translate(0px, 0px)' }}> {/* rotate3d(2, -1, -1, 0.75turn) */}
                 <div className={styles.front}> {/* style={{ width: '23.48vw' }} */}
                     <div className={styles.screen} style={{ transform: 'translate(12px, 16.2px)' }}>
                         <div style={{ transform: 'translate(168px, -34.6px) rotate(90deg)', position: 'fixed' }}>

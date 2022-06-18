@@ -27,7 +27,7 @@ export default function Back () {
                 onClick={setStarlight}
             /> */}
             <div className={styles.main}> {/* style={{ transform: 'rotate(10deg)' }} */}
-                <div className={styles.frame} />
+                {/* <div className={styles.frame} /> */} 
                     <div>
                         <div>
                             <div className={styles.camera} style={{ margin: '-504px 0px 0px 15px' }} />

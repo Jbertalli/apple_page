@@ -476,3 +476,7 @@
    border-radius: 50%;
    background: #343d46;
 }
+
+.hidden {
+   mask-image: linear-gradient(30deg, transparent 15.18%, black 15.18%);
+}
