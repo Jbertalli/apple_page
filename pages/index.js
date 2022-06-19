@@ -15,7 +15,7 @@ export default function Home() {
         <a href="/ipad">iPad</a>
       </div>
       <div>
-        <a href="/colorSelection/grayipad">Gray iPad</a>
+        <a href="/colorSelection/grayipad">iPad Colors</a>
       </div>
     </>  
   )
